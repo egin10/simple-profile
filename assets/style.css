@@ -2,7 +2,7 @@ body {
   background-color: #eae7e7;
   font-family: Roboto, BlinkMacSystemFont, "Segoe UI", Oxygen, Ubuntu, Cantarell,
     "Open Sans", "Helvetica Neue", sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   color: gray;
 }
 
@@ -15,7 +15,11 @@ body {
   padding-top: 25vh !important;
 }
 
-.text-social-media {
+.portfolio footer {
+  margin-top: 5vh;
+}
+
+.portfolio span {
   font-size: 14px;
 }
 
@@ -24,5 +28,5 @@ body {
 }
 
 footer {
-  margin-top: 30vh;
+  margin-top: 35vh;
 }
