@@ -1,0 +1,26 @@
+{
+  "name": "simple-profile",
+  "version": "1.0.0",
+  "description": "This is a simple web page with build with HTML, CSS and Bootstrap 4.7.",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egin10/simple-profile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egin10/simple-profile/issues"
+  },
+  "homepage": "https://github.com/egin10/simple-profile#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
